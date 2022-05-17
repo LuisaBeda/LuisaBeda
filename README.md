@@ -1,5 +1,5 @@
  Oie, eu sou a  @LuisaBeda
- Estudante de Ciências da Computação 
+ - Estudante de Ciências da Computação 
  - RP - SP 
  - 18 anos 
 
