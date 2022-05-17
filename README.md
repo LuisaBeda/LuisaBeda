@@ -1,6 +1,6 @@
  Oie, eu sou a  @LuisaBeda
  Estudante de Ciências da Computação 
- Morando em Ribeirão Preto - São Paulo 
+ - RP - SP 
  - 18 anos 
 
 <div align="center">
